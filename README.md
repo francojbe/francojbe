@@ -25,8 +25,8 @@ Currently available for freelance projects (Workana / Upwork / Direct).
 
 ### 📫 Let's Connect
 - 💼 **Freelance Inquiries**: Open for new projects on Workana.
-- ✉️ **Email**: [Add your email here]
-- 🌐 **Portfolio**: [Add your portfolio link here once deployed]
+- ✉️ **Email**: francojbe@gmail.com
+- 🌐 **Portfolio**: [https://francojbe.github.io](https://francojbe.github.io)
 
 ---
 ⭐️ *From AI bots to enterprise automation, let's build something amazing together.*
